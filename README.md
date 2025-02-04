@@ -32,7 +32,7 @@ The trained model data is downloaded through google drive
 | Meatball   | 53.21          | 55.24             |
 | Trash      | 44.44          | 50.00             |
 
-### Comparison of Performance Metrics for Different Test Conditions
+### Comparison of Performance Metrics for Different Test Conditions (used: best_epoch_weights_v6_cropped_XCeption.pth) 
 
 | **Test Condition**                                | **mIoU (%)** | **mPA (%)** | **Accuracy (%)** | **Copper IoU (%)** | **Meatball IoU (%)** | **Trash IoU (%)** |
 |--------------------------------------------------|--------------|-------------|------------------|--------------------|----------------------|-------------------|
